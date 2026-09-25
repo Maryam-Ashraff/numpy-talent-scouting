@@ -1,0 +1,5 @@
+# This project is implemented with NumPy only
+numpy>=1.24
+
+# Notebook environment
+jupyter>=1.0
